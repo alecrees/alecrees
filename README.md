@@ -2,20 +2,26 @@
 
 Creative technologist and cross-platform product developer with a background in professional music, audio production, digital education and web development.
 
-I build interactive products at the intersection of music, software, community and visual systems. My current main project is Metopus, an early-stage artist and fan platform spanning public web, authenticated web app work, native Android, native iOS, shared Rust logic and Supabase/PostgreSQL infrastructure.
+I build interactive products at the intersection of music, software, community, learning and visual systems. My strongest work sits between product thinking, implementation, technical communication and practical testing.
 
-Most of my commercial and product work is private, so this profile is designed to show public-safe evidence: case studies, technical write-ups, selected demos and portfolio projects.
+Most of my commercial and product work is private, so this profile is designed to explain the work clearly without exposing protected source code, client/band IP, credentials or unfinished commercial implementation.
 
-## Public Work
+## Current Focus
 
-- **[Metopus product case study](https://github.com/alecrees/metopus-product-case-study)**  
-  A documentation-only case study covering product goals, architecture, cross-platform strategy, visual systems, testing, confidentiality boundaries and AI-assisted development workflow.
+**Metopus** is my main current product project: an early-stage artist and fan platform spanning public web, authenticated web app work, native Android, native iOS, shared Rust logic, WebAssembly and Supabase/PostgreSQL infrastructure.
 
-- **Personal portfolio site**  
-  Rebuild planned for alecreesdrummer.com, reframing the site from musician-only portfolio into a creative technology and product portfolio.
+The production repositories are private because the product contains protected implementation, backend/security work, generated bindings, unpublished assets and commercial product logic. A public-safe case study is being prepared separately and will be published after a screenshot, privacy and IP review.
 
-- **Public demos in progress**  
-  Small, clean demo repositories are planned around Web Audio, accessible learning content and interactive browser interfaces. These will be built specifically for public inspection, without using protected commercial or band IP.
+## Evidence I Can Share Publicly
+
+- product architecture and case-study writing
+- cross-platform web/mobile planning
+- TypeScript/React public web and app-surface work
+- Rust/WebAssembly direction for shared logic
+- Supabase/PostgreSQL and Cloudflare-oriented product architecture
+- WordPress/custom site work and music-industry web projects
+- Web Audio and interactive browser work
+- QA notes, device-testing approach and public-safe walkthroughs
 
 ## Technologies
 
@@ -25,7 +31,7 @@ TypeScript, JavaScript, React, Next.js, Vite, HTML, CSS, Rust, WebAssembly, Kotl
 
 I use AI-assisted development tools as part of a modern build workflow: planning, prototyping, implementation support, debugging, testing and refactoring. I remain responsible for product direction, architecture decisions, review, integration and final quality.
 
-My strongest work sits in the middle of product, engineering and communication: taking ambiguous ideas, structuring them into real workflows, building usable interfaces, testing across devices, and explaining complex systems clearly.
+I am particularly interested in work where technical clarity matters: turning ambiguous ideas into structured workflows, building usable interfaces, testing across devices, and explaining complex systems clearly.
 
 ## Links
 
