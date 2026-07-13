@@ -8,7 +8,7 @@ Most of my commercial and product work is private, so this profile is designed t
 
 ## Public Work
 
-- **Metopus product case study**  
+- **[Metopus product case study](https://github.com/alecrees/metopus-product-case-study)**  
   A documentation-only case study covering product goals, architecture, cross-platform strategy, visual systems, testing, confidentiality boundaries and AI-assisted development workflow.
 
 - **Personal portfolio site**  
